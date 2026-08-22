@@ -42,19 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KenaDu&theme=dark&hide_border=false&show_icons=true" alt="KenaDu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KenaDu&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KenaDu&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KenaDu&icon=2&color=10)
 
 </div>
