@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me
 
@@ -44,4 +44,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KenaDu&icon=2&color=10)
 
-</div>
