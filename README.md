@@ -1,4 +1,7 @@
+<div align="center">
 
+<!-- Аватарка / Фото профиля -->
+<img src="https://github.com/KenaDu.png" width="160" height="160" style="border-radius: 50%;" alt="Rostislav Avatar" />
 
 # 💫 About Me
 
@@ -37,6 +40,15 @@
 
 ---
 
+### 📈 Project & Activity Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenaDu&layout=compact&theme=radical&hide_border=true" width="48%" alt="Языки проектов" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenaDu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Активность проектов" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KenaDu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -44,3 +56,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KenaDu&icon=2&color=10)
 
+</div>
